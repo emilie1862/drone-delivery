@@ -91,3 +91,6 @@ is the path to the output file
  ```
  ./gradlew test --info 
  ```
+ An HTML report describing the outcome of the tests can 
+ be found at `/build/reports/tests/test/index.html`
+
